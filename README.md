@@ -1,6 +1,14 @@
 
 ***
 
+# Disco Zoo
+
+![Disco_Zoo_Icon.png](Disco_Zoo_Icon.png)
+
+# By:
+
+![NimbleBit_Logo.png](NimbleBit_Logo.png)
+
 ### Top
 
 # `README.md`
@@ -25,11 +33,23 @@
 
 [07.0 - Contributing](#Contributing)
 
-[08.0 - About README](#About-README)
+[08.0 - Issues](#Issues)
 
-[09.0 - README Version history](#README-version-history)
+> [08.1 - Current issues](#Current-issues)
 
-[10.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+> [08.2 - Past issues](#Past-issues)
+
+> [08.3 - Past pull requests](#Past-pull-requests)
+
+> [08.4 - Active pull requests](#Active-pull-requests)
+
+[09.0 - Resources](#Resources)
+
+[10.0 - About README](#About-README)
+
+[11.0 - README Version history](#README-version-history)
+
+[12.0 - Footer](#You-have-reached-the-end-of-the-README-file)
 
 ***
 
@@ -40,7 +60,11 @@ The module for my life story project that contains my Disco Zoo gameplay images.
 
 ## About
 
-See above
+See above. This repository hosts all weekly fISCO zOO session pictures. I currently play the [Android version](https://play.google.com/store/apps/details?id=com.nimblebit.discozoo&hl=en_US&gl=USS) there is a version available for iOS. It is listed below
+
+These weekly pictures are to be used for progress monitoring, but can also be used as stock images.
+
+I started playing Disco Zoo in mid 2020 during my NimbleBit fan phase. I continue to play on a weekly basis.
 
 ***
 
@@ -62,7 +86,7 @@ Unavailable
 
 Currently, I am the only contributer. Contributing is not allowed, as this is a personal project.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 20 commits (As of Wednesday, September 23rd 2020 at 4:30 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 113 commits (As of Wednesday, November 11th 2020 at 2:33 pm)
 
 > * 2. No other contributers.
 
@@ -72,7 +96,53 @@ Currently, I am the only contributer. Contributing is not allowed, as this is a 
 
 Contributing is not allowed for this project, as it is a personal project.
 
-[Click/tap here to view the contributing rules for this project](https://github.com/seanpm2001/SeansLifeArchive_Images_DiscoZoo/blob/master/CONTRIBUTING.md)
+[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+
+***
+
+## Issues
+
+### Current issues
+
+None at the moment
+
+### Past issues
+
+None at the moment
+
+### Past pull requests
+
+None at the moment
+
+### Active pull requests
+
+None at the moment
+
+***
+
+## Resources
+
+Here are some other resources for this project:
+
+[Project language file](LANG.py)
+
+[Disco Zoo on the Apple App store)](https://apps.apple.com/us/app/disco-zoo/id794524208)
+
+[Download an APK of Disco Zoo using APKPure](https://apkpure.com/disco-zoo/com.nimblebit.discozoo)
+
+[Wikipedia article on Disco Zoo](https://en.wikipedia.org/wiki/Disco_Zoo)
+
+[Disco Zoo Wikia Fandom](https://discozoo.fandom.com/wiki/Disco_Zoo_Wiki)
+
+[NimbleBit website](http://nimblebit.com/)
+
+### Images
+
+[Disco Zoo app icon (png)](Disco_Zoo_Icon.png)
+
+[NimbleBit Logo (png)](NimbleBit_Logo.png)
+
+No other resources at the moment.
 
 ***
 
@@ -80,9 +150,9 @@ Contributing is not allowed for this project, as it is a personal project.
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Wednesday, September 23rd 2020 at 4:30 pm)`
+File version: `2 (Wednesday, November 11th 2020 at 2:33 pm)`
 
-Line count: `0,132`
+Line count: `0,230`
 
 ***
 
@@ -114,13 +184,41 @@ Version 1 (Wednesday, September 23rd 2020 at 4:30 pm)
 
 > * No other changes in version 1
 
-Version 2 (coming soon)
+Version 2 (Wednesday, November 11th 2020 at 2:33 pm)
+
+> Changes:
+
+> * Updated the about section
+
+> * Added the resources section
+
+> * Added release notes for v2
+
+> * Added template entries for v3 and v4
+
+> * Updated the file info section
+
+> * Updated the index
+
+> * Updated the contributers section
+
+> * No other changes in version 2
+
+Version 3 (coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+Version 4 (coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
