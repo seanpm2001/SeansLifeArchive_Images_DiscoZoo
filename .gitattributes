@@ -25,11 +25,12 @@
 *.py linguist-documentation=false
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
-*.md linguist-detectable=true
+*.md linguist-detectable=false
 *.md linguist-documentation=false
 # End of linguist script
 # File info
 # File type: .gitattributes file
-# File version: 1 (Wednesday, August 18th 2021 at 3:38 pm)
-# Line count (including blank lines and compiler line): 36
+# File version: 2 (Wednesday, August 18th 2021 at 3:40 pm)
+# V2: Fixed markdown, turned it off (originally forgot to)
+# Line count (including blank lines and compiler line): 37
 # End of script
