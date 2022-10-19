@@ -10,6 +10,9 @@
 /.editorconfig
 /.gitattributes
 /.gitignore
+/404.html
+/404.jpeg
+/404.md
 /AUTHORS
 /AUTHORS.md
 /AUTOMATE2001.yml
@@ -60,6 +63,7 @@
 /SECURITY.md
 /SOLVING_PUZZLES.md
 /SponsorButton.png
+/_config.yml
 /desktop.ini
 /makefile.mk
 /pull_request_template.md
